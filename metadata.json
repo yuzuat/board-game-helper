@@ -1,0 +1,6 @@
+{
+  "name": "桌遊小助手 (Board Game Helper)",
+  "description": "一個全方位的桌遊輔助工具，包含規則說明、角色抽取、任務抽卡、景點介紹及問答題庫。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
